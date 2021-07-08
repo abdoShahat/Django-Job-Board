@@ -26,3 +26,9 @@ Blog:
     - comment
     - recent post 
     
+
+
+Relations in Django: 
+    - One to Many   Foreginkey
+    - Many to Many 
+    - One to One 
